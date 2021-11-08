@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @maaaipt
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning solidity
+- 📫 Reach me with a DM
